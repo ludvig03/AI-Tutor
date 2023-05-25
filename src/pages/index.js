@@ -26,7 +26,7 @@ export default function Home() {
 
     console.log(messages)
 
-    fetch('https://6c6e-2a02-fe1-1280-1a00-bd4e-ee57-bd33-8343.ngrok-free.app/chat', {
+    fetch('https://d79c-84-212-88-11.ngrok-free.app/chat', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
